@@ -1,3 +1,4 @@
+[local scan_ijizmp.pdf](https://github.com/user-attachments/files/21670543/local.scan_ijizmp.pdf)
 
 # nessus-scan-report
 I have just scan my local host ,and i find some intresting things in it
